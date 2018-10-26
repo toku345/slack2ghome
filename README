@@ -1,0 +1,14 @@
+# slack2ghome
+
+slackに投稿したメッセージをお手元のGoogle Homeに喋らせるよう！
+
+# Requirements
+
+- Google Home / Google Home Mini
+- Slackアカウント
+- Node.jsが動くサーバー (※ Google Homeと同じLAN内で動作していること)
+
+
+# 注意
+
+https://qiita.com/ezmscrap/items/24b3a9a8548da0ab9ff5
